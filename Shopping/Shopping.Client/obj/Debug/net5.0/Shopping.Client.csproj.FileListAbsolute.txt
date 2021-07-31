@@ -9,7 +9,6 @@ C:\Projetos\Cursos\Devops\Shopping\Shopping.Client\bin\Debug\net5.0\ref\Shopping
 C:\Projetos\Cursos\Devops\Shopping\Shopping.Client\bin\Debug\net5.0\Shopping.Client.pdb
 C:\Projetos\Cursos\Devops\Shopping\Shopping.Client\bin\Debug\net5.0\Shopping.Client.Views.dll
 C:\Projetos\Cursos\Devops\Shopping\Shopping.Client\bin\Debug\net5.0\Shopping.Client.Views.pdb
-C:\Projetos\Cursos\Devops\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.csproj.AssemblyReference.cache
 C:\Projetos\Cursos\Devops\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projetos\Cursos\Devops\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.AssemblyInfoInputs.cache
 C:\Projetos\Cursos\Devops\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.AssemblyInfo.cs
