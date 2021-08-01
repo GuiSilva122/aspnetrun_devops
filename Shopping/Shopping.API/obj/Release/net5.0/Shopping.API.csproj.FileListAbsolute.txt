@@ -1,0 +1,7 @@
+C:\Projetos\Cursos\Devops\Shopping\Shopping.API\obj\Release\net5.0\Shopping.API.csproj.AssemblyReference.cache
+C:\Projetos\Cursos\Devops\Shopping\Shopping.API\obj\Release\net5.0\Shopping.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Cursos\Devops\Shopping\Shopping.API\obj\Release\net5.0\Shopping.API.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Devops\Shopping\Shopping.API\obj\Release\net5.0\Shopping.API.AssemblyInfo.cs
+C:\Projetos\Cursos\Devops\Shopping\Shopping.API\obj\Release\net5.0\Shopping.API.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Devops\Shopping\Shopping.API\obj\Release\net5.0\Shopping.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\Cursos\Devops\Shopping\Shopping.API\obj\Release\net5.0\Shopping.API.MvcApplicationPartsAssemblyInfo.cache

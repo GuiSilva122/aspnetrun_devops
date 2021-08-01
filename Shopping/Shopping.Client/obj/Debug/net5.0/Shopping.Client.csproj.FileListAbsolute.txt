@@ -37,3 +37,5 @@ C:\Projetos\Cursos\Devops\Shopping\Shopping.Client\obj\Debug\net5.0\ref\Shopping
 C:\Projetos\Cursos\Devops\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.pdb
 C:\Projetos\Cursos\Devops\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.genruntimeconfig.cache
 C:\Projetos\Cursos\Devops\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.csproj.CopyComplete
+C:\Projetos\Cursos\Devops\Shopping\Shopping.Client\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projetos\Cursos\Devops\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.csproj.AssemblyReference.cache
