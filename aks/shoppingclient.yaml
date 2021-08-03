@@ -16,8 +16,10 @@ spec:
     spec:
       containers:
         - name: shoppingclient
-          image: iug122/shoppingclient:latest
+          image: shoppingacr122.azurecr.io/shoppingclient:v1
           imagePullPolicy: IfNotPresent
+          imagePullSecrets:
+            - name: acr-secret
           ports:
             - containerPort: 80
           env:
@@ -41,11 +43,9 @@ kind: Service
 metadata:
   name: shoppingclient-service
 spec:
-  type: NodePort
+  type: LoadBalancer
   selector:
     app: shoppingclient
   ports:
     - protocol: TCP
-      port: 7001
-      targetPort: 80
-      nodePort: 30000
+      port: 80
